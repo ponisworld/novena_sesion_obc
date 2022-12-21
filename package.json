@@ -1,0 +1,22 @@
+{
+  "name": "novena_sesion_obc",
+  "version": "1.0.0",
+  "description": "Noveno ejercicio de JS con OBC, modulo orientado a gestionar errores",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ponisworld/novena_sesion_obc.git"
+  },
+  "author": "Andrea Bellver García",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ponisworld/novena_sesion_obc/issues"
+  },
+  "homepage": "https://github.com/ponisworld/novena_sesion_obc#readme",
+  "dependencies": {
+    "winston": "^3.8.2"
+  }
+}
